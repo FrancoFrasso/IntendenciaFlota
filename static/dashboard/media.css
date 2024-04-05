@@ -1,0 +1,22 @@
+
+
+a:visited {  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; color: #336699; text-decoration: underline }
+a:link { font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; color: #336699; text-decoration: underline }
+a:hover { font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; color: #000000; text-decoration: none }
+a.item:visited {  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; color: #666666; text-decoration: none; font-size: 10}
+a.item:link { font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; color: #666666; text-decoration: none; font-size: 10}
+a.item:hover { font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; color: #000000; text-decoration: none; font-size: 10}
+.TextoBaseChico {  font-family: Tahoma, Verdana, Arial, Helvetica; font-size: 12px}
+.TextoBaseChico2 {  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 12px}
+.TextoSubTitulo { font-family: Tahoma, Verdana, Arial, Helvetica; font-size: 12px; font-weight: bold}
+.TextoBaseMediano { font-family: Tahoma, Verdana, Arial, Helvetica; font-size: 12px}
+.TextoTitulo { font-family: Tahoma, Verdana, Arial, Helvetica; font-size: 14px; font-weight: bold }
+.oblig {
+   FONT-SIZE: 12px; COLOR: #b22222; LINE-HEIGHT: 14px; FONT-FAMILY: Trebuchet MS, Tahoma, Verdana, Helvetica, Sans-serif; left-margin: 1px
+}
+
+/* //----// */
+
+<!--.mTD,.mTD A {white-space:nowrap;color:#4A71A5;font-weight:bold;}.mTD,.mTD A:Link {color:#4A71A5}.mTD A:Visited {color:#4A71A5}.mTD,.mTD A:Active,.mTD A:Link,.mTD A:Visited,.mTD A:Hover{font-weight:bold;font-size:9px;font-family:Verdana;text-decoration:none;position:relative;}.SUBmTD,.SUBmTD A { white-space:nowrap;color:White;font-weight:normal;}.SUBmTD,.SUBmTD A:Link {color:White}.SUBmTD A:Visited {color:White }.SUBmTD,.SUBmTD A:Active,.SUBmTD A:Link,.SUBmTD A:Visited,.SUBmTD A:Hover{font-weight:normal;font-size:9px;font-family:Verdana;text-decoration:none;}.roman {font-size:14px; color:#0000cc; background-color:white; font-family:times new roman; }//
+        -->
+
